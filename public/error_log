@@ -1,0 +1,6 @@
+[12-Sep-2024 21:12:28 America/Sao_Paulo] PHP Warning:  require(/home/minhagab/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minhagab/public_html/index.php on line 34
+[12-Sep-2024 21:12:28 America/Sao_Paulo] PHP Warning:  require(/home/minhagab/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minhagab/public_html/index.php on line 34
+[12-Sep-2024 21:12:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minhagab/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/minhagab/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/minhagab/public_html/index.php on line 34
